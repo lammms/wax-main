@@ -88,12 +88,10 @@ search:
       luam:
         content: false # whether or not to index page content
         fields: # the metadata fields to index
+          - label
           - artist
           - location
-          - label
           - _date
-          - object_type
-          - current_location
 
 # --------------------------------------------------------------
 # SITE MENU SETTINGS
