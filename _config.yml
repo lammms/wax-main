@@ -90,8 +90,8 @@ search:
         fields: # the metadata fields to index
           - label
           - artist
-          - location
           - _date
+          - location
 
 # --------------------------------------------------------------
 # SITE MENU SETTINGS
